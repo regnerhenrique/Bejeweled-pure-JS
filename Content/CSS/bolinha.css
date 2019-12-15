@@ -1,0 +1,33 @@
+.bolinha {
+    height: 50px;
+    width: 50px;
+    display: table;
+    border-radius: 50px;
+}
+
+.red{
+    background-color: red;
+}
+
+.blue{
+    background-color: blue;
+}
+
+
+.green{
+    background-color: green;
+}
+
+
+.black{
+    background-color: black;
+}
+
+
+.purple{
+    background-color: purple;
+}
+
+.boom{
+    opacity: 0.2;
+}
